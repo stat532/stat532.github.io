@@ -24,8 +24,8 @@ At the end of the course students will be able to:
 
 ## Textbooks
 
-- \emph{A First Course in Bayesian Statistical Methods}, by Peter Hoff
-- \emph{Bayesian Data Analysis (3rd Edition)}, by Gelman, Carlin, Stern, & Rubin (Optional)
+- *A First Course in Bayesian Statistical Methods*, by Peter Hoff
+- *Bayesian Data Analysis (3rd Edition)*, by Gelman, Carlin, Stern, & Rubin (Optional)
 
 ## Additional Resources
 Analysis, data visualization, and version control procedures will be implemented with:
