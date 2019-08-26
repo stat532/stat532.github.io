@@ -17,6 +17,7 @@
     - Weekly Notes
 - Friday September 6: 
     - Belief, Probability, and Exchangeability
+    - HW 1 due
 
 ##### Week 3: One-Parameter Models
 - Monday September 9: 
@@ -27,6 +28,7 @@
     - Poisson Model
 - Friday September 13: 
     - Exponential Families & Conjugate Priors
+    - HW 2 due
 
 ##### Week 4: Computational Statistics
 - Monday September 16: 
@@ -37,6 +39,7 @@
     - MCMC Intro
 - Friday September 20: 
     - JAGS / Stan
+    - HW 3 due
 
 ##### Week 5: Normal Model
 - Monday September 23: 
@@ -47,6 +50,7 @@
     - Normal Model, joint inference
 - Friday September 27: 
     - Normal Model
+    - HW 4 due
 
 ##### Week 6: Markov Chain Monte Carlo
 - Monday September 30: 
@@ -57,6 +61,7 @@
     - MCMC diagnostics
 - Friday October 4: 
     - MCMC comparisons
+    - HW 5 due
 
 ##### Week 7: Midterm Week
 - Monday October 7: Review
