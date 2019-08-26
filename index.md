@@ -1,7 +1,7 @@
 ### Tentative Class Schedule
 
 ##### Week 1: Introductions
-- Monday August 26: Introductions & Course Overview
+- Monday August 26: Introductions & Course Overview: [Weekly Notes](https://github.com/stat532/Lecture1/blob/master/Lecture1_2019.pdf)
 - Wednesday August 28: Mechanics of Bayesian Statistics
 - Friday August 30: Philosophy of Bayesian Statistics (Confidence vs. Probability)
 
