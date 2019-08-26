@@ -1,34 +1,62 @@
 ### Tentative Class Schedule
 
 ##### Week 1: Introductions
-- Monday August 26: Introductions & Course Overview: [Weekly Notes](https://github.com/stat532/Lecture1/blob/master/Lecture1_2019.pdf)
-- Wednesday August 28: Mechanics of Bayesian Statistics
-- Friday August 30: Philosophy of Bayesian Statistics (Confidence vs. Probability)
+- Monday August 26: 
+    - Introductions & Course Overview 
+    - [Weekly Notes](https://github.com/stat532/Lecture1/blob/master/Lecture1_2019.pdf)
+- Wednesday August 28: 
+    - Mechanics of Bayesian Statistics
+- Friday August 30: 
+    - Philosophy of Bayesian Statistics (Confidence vs. Probability)
 
 ##### Week 2: Bayesian Foundations
 - Monday September 2: Labor Day, NO CLASS
-- Wednesday September 4: Belief, Probability, and Exchangeability 
-- Friday September 6: Belief, Probability, and Exchangeability
+- Wednesday September 4: 
+    - Belief, Probability, and Exchangeability 
+    - Quiz 2 due
+    - Weekly Notes
+- Friday September 6: 
+    - Belief, Probability, and Exchangeability
 
 ##### Week 3: One-Parameter Models
-- Monday September 9: Binomial Model
-- Wednesday September 11: Poisson Model
-- Friday September 13: Exponential Families & Conjugate Priors
+- Monday September 9: 
+    - Binomial Model
+    - Quiz 3 due
+    - Weekly Notes
+- Wednesday September 11: 
+    - Poisson Model
+- Friday September 13: 
+    - Exponential Families & Conjugate Priors
 
 ##### Week 4: Computational Statistics
-- Monday September 16: Computational Statistics - Monte Carlo
-- Wednesday September 18: MCMC Intro
-- Friday September 20: JAGS / Stan
+- Monday September 16: 
+    - Computational Statistics - Monte Carlo
+    - Quiz 4 due
+    - Weekly Notes
+- Wednesday September 18: 
+    - MCMC Intro
+- Friday September 20: 
+    - JAGS / Stan
 
 ##### Week 5: Normal Model
-- Monday September 23: Normal Model w/ known variance 
-- Wednesday September 25: Normal Model, joint inference
-- Friday September 27: Normal Model
+- Monday September 23: 
+    - Normal Model w/ known variance 
+    - Quiz 5 due
+    - Weekly Notes
+- Wednesday September 25: 
+    - Normal Model, joint inference
+- Friday September 27: 
+    - Normal Model
 
 ##### Week 6: Markov Chain Monte Carlo
-- Monday September 30: Normal Model \& Gibbs Sampling - Lab 
-- Wednesday October 2: MCMC diagnostics
-- Friday October 4: MCMC comparisons
+- Monday September 30: 
+    - Normal Model and Gibbs Sampling (Lab)
+    - Quiz 6 due
+    - Weekly Notes    
+- Wednesday October 2: 
+    - MCMC diagnostics
+- Friday October 4: 
+    - MCMC comparisons
 
 ##### Week 7: Midterm Week
 - Monday October 7: Review
