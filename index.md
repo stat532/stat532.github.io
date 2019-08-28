@@ -17,7 +17,7 @@
     - Weekly Notes
 - Friday September 6: 
     - Belief, Probability, and Exchangeability
-    - HW 1 due
+    - [HW 1 due](https://stat532.github.io/HW1/) ([R Markdown file](https://github.com/stat532/HW1/blob/master/HW1.Rmd))
 
 #### Week 3: One-Parameter Models
 - Monday September 9: 
