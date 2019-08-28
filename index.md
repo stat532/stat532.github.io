@@ -13,7 +13,7 @@
 - Monday September 2: Labor Day, NO CLASS
 - Wednesday September 4: 
     - Belief, Probability, and Exchangeability 
-    - Quiz 2 due
+    - [Quiz 2 due](https://stat532.github.io/Quiz2/)
     - Weekly Notes
 - Friday September 6: 
     - Belief, Probability, and Exchangeability
