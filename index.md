@@ -94,21 +94,23 @@
 - Wednesday November 13: Generalized Linear Models
 - Friday November 15: Metropolis-Hastings    
 
-##### Week 13: Hierarchical GLMs 
+##### Week 13: Hierarchical GLMs / Presentations
 - Monday November 18: Hierarchical Regression 
 - Wednesday November 20: Hierarchical Regression
-- Friday November 22: Hierarchical GLMs   
+- Friday November 22: Course Presentations    
 
 ##### Week 14:  
-- Monday November 25: 
+- Monday November 25: Course Presentations
 - Wednesday November 27: Thanksgiving Break NO CLASS
 - Friday November 29: Thanksgiving Break NO CLASS  
 
-##### Week 15: Presentations / Exam
-- Monday December 2: 
+##### Week 15: 
+- Monday December 2: Hierarchical GLMs
 - Wednesday December 4: 
 - Friday December 6: 
 
+##### Week 15: Final Exam Week
+- Friday December 13: 8 AM - 9:50 Final Exam
 
 ## Course Description
 
