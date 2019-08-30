@@ -23,7 +23,7 @@
 #### Week 3: One-Parameter Models
 - Monday September 9: 
     - Binomial Model
-    - Quiz 3 due
+    - [Quiz 3 due](https://stat532.github.io/Quiz3/)
     - Weekly Notes
 - Wednesday September 11: 
     - Poisson Model
