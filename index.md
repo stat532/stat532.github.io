@@ -14,7 +14,7 @@
 - Wednesday September 4: 
     - Belief, Probability, and Exchangeability 
     - [Quiz 2 due](https://stat532.github.io/Quiz2/)
-    - Weekly Notes
+    - [Weekly Notes](https://github.com/stat532/Lecture2/blob/master/Lecture2_2019.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture2/blob/master/Lecture2_2019.Rmd))
 - Friday September 6: 
     - Belief, Probability, and Exchangeability
     - [HW 1 due](https://stat532.github.io/HW1/) ([R Markdown file](https://github.com/stat532/HW1/blob/master/HW1.Rmd))
