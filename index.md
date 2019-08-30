@@ -18,6 +18,7 @@
 - Friday September 6: 
     - Belief, Probability, and Exchangeability
     - [HW 1 due](https://stat532.github.io/HW1/) ([R Markdown file](https://github.com/stat532/HW1/blob/master/HW1.Rmd))
+    - [Philosophy and the practice of Bayesian statistics](http://www.stat.columbia.edu/~gelman/research/published/philosophy.pdf)
 
 #### Week 3: One-Parameter Models
 - Monday September 9: 
