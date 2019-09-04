@@ -29,7 +29,7 @@
     - Poisson Model / Exponential Families
 - Friday September 13: 
     - A Little About Priors
-    - HW 2 due
+    - [HW 2 due](https://stat532.github.io/HW2/) ([R Markdown file](https://github.com/stat532/HW2/blob/master/HW2.Rmd))
 
 #### Week 4: Computational Statistics
 - Monday September 16: 
