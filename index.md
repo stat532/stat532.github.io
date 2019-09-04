@@ -26,9 +26,9 @@
     - [Quiz 3 due](https://stat532.github.io/Quiz3/)
     - Weekly Notes
 - Wednesday September 11: 
-    - Poisson Model
+    - Poisson Model / Exponential Families
 - Friday September 13: 
-    - Exponential Families & Conjugate Priors
+    - A Little About Priors
     - HW 2 due
 
 #### Week 4: Computational Statistics
