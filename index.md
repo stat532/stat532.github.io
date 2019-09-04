@@ -24,7 +24,7 @@
 - Monday September 9: 
     - Binomial Model
     - [Quiz 3 due](https://stat532.github.io/Quiz3/)
-    - Weekly Notes
+    - [Weekly Notes](https://github.com/stat532/Lecture3/blob/master/Lecture3_2019.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture3/blob/master/Lecture3_2019.Rmd))
 - Wednesday September 11: 
     - Poisson Model / Exponential Families
 - Friday September 13: 
