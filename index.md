@@ -35,11 +35,11 @@
 - Monday September 16: 
     - Computational Statistics - Monte Carlo
     - Quiz 4 due
-    - Weekly Notes
+    - [Weekly Notes](https://github.com/stat532/Lecture4/blob/master/Lecture4_2019.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture4/blob/master/Lecture4_2019.Rmd))
 - Wednesday September 18: 
     - MCMC Intro
 - Friday September 20: 
-    - JAGS / Stan
+    - [MCMC Demo](https://github.com/stat532/Lecture4/blob/master/MCMC_Demo.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture4/blob/master/MCMC_Demo.Rmd))
     - HW 3 due
 
 #### Week 5: Normal Model
@@ -65,9 +65,9 @@
     - HW 5 due
 
 ##### Week 7: Midterm Week
-- Monday October 7: Review
-- Wednesday October 9: In Class Midterm
-- Friday October 11: No Class (work on take home exam)
+- Monday October 7: In Class Midterm
+- Wednesday October 9: 
+- Friday October 11: No Class MT ASA Chapter Meeting
     
 ##### Week 8: Multivariate Normal
 - Monday October 14: Overdispersed Normal distribution
