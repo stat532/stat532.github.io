@@ -34,7 +34,7 @@
 #### Week 4: Computational Statistics
 - Monday September 16: 
     - Computational Statistics - Monte Carlo
-    - Quiz 4 due
+    - [Quiz 4 due](https://stat532.github.io/Quiz4/)
     - [Weekly Notes](https://github.com/stat532/Lecture4/blob/master/Lecture4_2019.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture4/blob/master/Lecture4_2019.Rmd))
 - Wednesday September 18: 
     - MCMC Intro
