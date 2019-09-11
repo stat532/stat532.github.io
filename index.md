@@ -40,7 +40,7 @@
     - MCMC Intro
 - Friday September 20: 
     - [MCMC Demo](https://github.com/stat532/Lecture4/blob/master/MCMC_Demo.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture4/blob/master/MCMC_Demo.Rmd))
-    - HW 3 due
+    - [HW 3 due](https://github.com/stat532/HW3/blob/master/HW3.pdf) ([R Markdown file](https://github.com/stat532/HW3/blob/master/HW3.Rmd))
 
 #### Week 5: Normal Model
 - Monday September 23: 
