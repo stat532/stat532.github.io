@@ -45,7 +45,7 @@
 #### Week 5: Normal Model
 - Monday September 23: 
     - Normal Model w/ known variance 
-    - Quiz 5 due
+    - [Quiz 5 due](https://stat532.github.io/Quiz5/)
     - [Weekly Notes](https://github.com/stat532/Lecture5/blob/master/Lecture5_2019.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture5/blob/master/Lecture5_2019.Rmd))
 - Wednesday September 25: 
     - Normal Model, joint inference
