@@ -39,7 +39,7 @@
 - Wednesday September 18: 
     - MCMC Intro
 - Friday September 20: 
-    - [MCMC Demo](https://github.com/stat532/Lecture4/blob/master/MCMC_Demo.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture4/blob/master/MCMC_Demo.Rmd))
+    - [MCMC Demo](https://github.com/stat532/Lecture4/blob/master/MCMC_Demo.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture4/blob/master/MCMC_Demo.Rmd)) ([Stan Installation](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started)) ([JAGS Installation](http://mcmc-jags.sourceforge.net))
     - [HW 3 due](https://github.com/stat532/HW3/blob/master/HW3.pdf) ([R Markdown file](https://github.com/stat532/HW3/blob/master/HW3.Rmd))
 
 #### Week 5: Normal Model
