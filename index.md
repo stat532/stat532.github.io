@@ -51,7 +51,7 @@
     - Normal Model, joint inference
 - Friday September 27: 
     - Normal Model
-    - HW 4 due
+    - [HW 4 due](https://stat532.github.io/HW4/) ([R Markdown file](https://github.com/stat532/HW4/blob/master/HW4_RMD2019.Rmd))
 
 #### Week 6: Markov Chain Monte Carlo
 - Monday September 30: 
