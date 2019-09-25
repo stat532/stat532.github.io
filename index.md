@@ -56,7 +56,7 @@
 #### Week 6: Markov Chain Monte Carlo
 - Monday September 30: 
     - Normal Model and Gibbs Sampling 
-    - Quiz 6 due
+    - [Quiz 6 due](https://stat532.github.io/Quiz6/)
     - [Weekly Notes](https://github.com/stat532/Lecture6/blob/master/Lecture6_2019.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture6/blob/master/Lecture6_2019.Rmd))    
 - Wednesday October 2: 
     - MCMC diagnostics / Posterior Predictive Distribution
