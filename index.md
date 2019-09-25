@@ -50,18 +50,17 @@
 - Wednesday September 25: 
     - Normal Model, joint inference
 - Friday September 27: 
-    - Normal Model
+    - Normal Model, Gibbs Sampling
     - [HW 4 due](https://stat532.github.io/HW4/) ([R Markdown file](https://github.com/stat532/HW4/blob/master/HW4_RMD2019.Rmd))
 
 #### Week 6: Markov Chain Monte Carlo
 - Monday September 30: 
-    - Normal Model and Gibbs Sampling (Lab)
+    - Normal Model and Gibbs Sampling 
     - Quiz 6 due
-    - Weekly Notes    
+    - [Weekly Notes](https://github.com/stat532/Lecture6/blob/master/Lecture6_2019.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture6/blob/master/Lecture6_2019.Rmd))    
 - Wednesday October 2: 
-    - MCMC diagnostics
+    - MCMC diagnostics / Posterior Predictive Distribution
 - Friday October 4: 
-    - MCMC comparisons
     - HW 5 due
 
 ##### Week 7: Midterm Week
