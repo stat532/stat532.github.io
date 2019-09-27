@@ -63,52 +63,52 @@
 - Friday October 4: 
     - [HW 5 due](https://github.com/stat532/HW5/blob/master/HW5.pdf) ([R Markdown file](https://github.com/stat532/HW5/blob/master/HW5.Rmd))
 
-##### Week 7: Midterm Week
-- Monday October 7: In Class Midterm
-- Wednesday October 9: 
+#### Week 7: Midterm Week
+- Monday October 7: No Class, Work on Take Home Exam
+- Wednesday October 9: In Class Midterm
 - Friday October 11: No Class MT ASA Chapter Meeting
     
-##### Week 8: Multivariate Normal
+#### Week 8: Multivariate Normal
 - Monday October 14: Overdispersed Normal distribution
 - Wednesday October 16: Multivariate Normal Distribution
 - Friday October 18: Wishart distribution and Gibbs Sampling    
 
-##### Week 9: Hierarchical Modeling
+#### Week 9: Hierarchical Modeling
 - Monday October 21: Hierarchical Modeling 
 - Wednesday October 23: Hierarchical Modeling
 - Friday October 25: Stein's paradox    
 
-##### Week 10: Regression Introduction
+#### Week 10: Regression Introduction
 - Monday October 28: Point Mass Priors, Bayes Factors, and model selection 
 - Wednesday October 30: Bayes Factors and model selection 
 - Friday November 1: Regression    
 
-##### Week 11: Regression 
+#### Week 11: Regression 
 - Monday November 4: Regression
 - Wednesday November 6: Regression
 - Friday November 8: Regression    
 
-##### Week 12: GLMs and Metropolis-Hastings 
+#### Week 12: GLMs and Metropolis-Hastings 
 - Monday November 11: No Class Veteran's Day
 - Wednesday November 13: Generalized Linear Models
 - Friday November 15: Metropolis-Hastings    
 
-##### Week 13: Hierarchical GLMs / Presentations
+#### Week 13: Hierarchical GLMs / Presentations
 - Monday November 18: Hierarchical Regression 
 - Wednesday November 20: Hierarchical Regression
 - Friday November 22: Course Presentations    
 
-##### Week 14:  
+#### Week 14:  
 - Monday November 25: Course Presentations
 - Wednesday November 27: Thanksgiving Break NO CLASS
 - Friday November 29: Thanksgiving Break NO CLASS  
 
-##### Week 15: 
+#### Week 15: 
 - Monday December 2: Hierarchical GLMs
 - Wednesday December 4: 
 - Friday December 6: 
 
-##### Week 15: Final Exam Week
+#### Week 15: Final Exam Week
 - Friday December 13: 8 AM - 9:50 Final Exam
 
 ## Course Description
