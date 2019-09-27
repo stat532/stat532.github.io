@@ -61,7 +61,7 @@
 - Wednesday October 2: 
     - MCMC diagnostics / Posterior Predictive Distribution
 - Friday October 4: 
-    - HW 5 due
+    - [HW 5 due](https://github.com/stat532/HW5/blob/master/HW5.pdf) ([R Markdown file](https://github.com/stat532/HW5/blob/master/HW5.Rmd))
 
 ##### Week 7: Midterm Week
 - Monday October 7: In Class Midterm
