@@ -61,6 +61,7 @@
 - Wednesday October 2: 
     - MCMC diagnostics / Posterior Predictive Distribution
 - Friday October 4: 
+    - [Old Exams](https://github.com/stat532/oldexams)
     - [HW 5 due](https://github.com/stat532/HW5/blob/master/HW5_RMD2019.pdf) ([R Markdown file](https://github.com/stat532/HW5/blob/master/HW5_RMD2019.Rmd))
 
 #### Week 7: Midterm Week
