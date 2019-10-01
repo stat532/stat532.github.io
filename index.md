@@ -59,7 +59,8 @@
     - [Quiz 6 due](https://stat532.github.io/Quiz6/)
     - [Weekly Notes](https://github.com/stat532/Lecture6/blob/master/Lecture6_2019.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture6/blob/master/Lecture6_2019.Rmd))    
 - Wednesday October 2: 
-    - MCMC diagnostics / Posterior Predictive Distribution
+    - MCMC diagnostics 
+    - [MCMC Demo 2](https://github.com/stat532/Lecture6/blob/master/MCMC_Demo2.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture6/blob/master/MCMC_Demo2.Rmd))
 - Friday October 4: 
     - [Old Exams](https://github.com/stat532/oldexams)
     - [HW 5 due](https://github.com/stat532/HW5/blob/master/HW5_RMD2019.pdf) ([R Markdown file](https://github.com/stat532/HW5/blob/master/HW5_RMD2019.Rmd))
