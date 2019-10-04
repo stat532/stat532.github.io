@@ -69,6 +69,7 @@
 - Monday October 7: No Class, Work on Take Home Exam
 - Wednesday October 9: In Class Midterm
 - Friday October 11: No Class MT ASA Chapter Meeting
+        - [Take Home Midterm Due 11:59 PM](https://github.com/stat532/midterm/blob/master/Midterm_F2019.pdf) ([R Markdown Source Code](https://github.com/stat532/midterm/blob/master/Midterm_F2019.Rmd))
     
 #### Week 8: Multivariate Normal
 - Monday October 14: Overdispersed Normal distribution
