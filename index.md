@@ -63,7 +63,7 @@
     - [MCMC Demo 2](https://github.com/stat532/Lecture6/blob/master/MCMC_Demo2.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture6/blob/master/MCMC_Demo2.Rmd))
 - Friday October 4: 
     - [Old Exams](https://github.com/stat532/oldexams)
-    - [HW 5 due](https://github.com/stat532/HW5/blob/master/HW5_RMD2019.pdf) ([R Markdown file](https://github.com/stat532/HW5/blob/master/HW5_RMD2019.Rmd))
+    - [HW 5 due](https://github.com/stat532/HW5/blob/master/HW5_RMD2019.pdf) ([R Markdown file](https://github.com/stat532/HW5/blob/master/HW5_RMD2019.Rmd)) ([HW 5 key](https://github.com/stat532/HW5/blob/master/HW5_RMD2019key.pdf)) ([R Markdown Source Code](https://github.com/stat532/HW5/blob/master/HW5_RMD2019key.Rmd))
 
 #### Week 7: Midterm Week
 - Monday October 7: No Class, Work on Take Home Exam
