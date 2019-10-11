@@ -73,6 +73,7 @@
     
 #### Week 8: Multivariate Normal
 - Monday October 14: Overdispersed Normal distribution
+    - [Weekly Notes](https://github.com/stat532/Lecture7/blob/master/Lecture7_2018.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture7/blob/master/Lecture7_2018.Rmd))    
 - Wednesday October 16: Multivariate Normal Distribution
 - Friday October 18: Wishart distribution and Gibbs Sampling    
 
