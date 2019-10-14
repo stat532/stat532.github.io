@@ -78,7 +78,9 @@
 - Friday October 18: Wishart distribution and Gibbs Sampling    
 
 #### Week 9: Hierarchical Modeling
-- Monday October 21: Hierarchical Modeling 
+- Monday October 21: Hierarchical Modeling
+    - [HW 6 due](https://stat532.github.io/HW6/)
+    - No Quiz
 - Wednesday October 23: Hierarchical Modeling
 - Friday October 25: Stein's paradox    
 
