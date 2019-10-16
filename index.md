@@ -81,7 +81,7 @@
 - Monday October 21: Hierarchical Modeling
     - [HW 6 due](https://stat532.github.io/HW6/)
     - No Quiz
-    - [Weekly Notes](https://github.com/stat532/Lecture8/blob/master/Lecture8_2018.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture8/blob/master/Lecture8_2018.Rmd))    
+    - [Weekly Notes](https://github.com/stat532/Lecture8/blob/master/Lecture8.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture8/blob/master/Lecture8.Rmd))    
 - Wednesday October 23: Hierarchical Modeling
 - Friday October 25: Stein's paradox    
 
