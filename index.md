@@ -72,7 +72,7 @@
         - [Take Home Midterm Due 11:59 PM](https://github.com/stat532/midterm/blob/master/Midterm_F2019.pdf) ([R Markdown Source Code](https://github.com/stat532/midterm/blob/master/Midterm_F2019.Rmd))
     
 #### Week 8: Multivariate Normal
-- Monday October 14: Overdispersed Normal distribution
+- Monday October 14: Multivariate Normal Distribution
     - [Weekly Notes](https://github.com/stat532/Lecture7/blob/master/Lecture7_2018.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture7/blob/master/Lecture7_2018.Rmd))    
 - Wednesday October 16: Multivariate Normal Distribution
 - Friday October 18: Wishart distribution and Gibbs Sampling    
