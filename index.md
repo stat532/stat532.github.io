@@ -83,7 +83,8 @@
     - No Quiz
     - [Weekly Notes](https://github.com/stat532/Lecture8/blob/master/Lecture8.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture8/blob/master/Lecture8.Rmd))    
 - Wednesday October 23: Hierarchical Modeling
-- Friday October 25: Stein's paradox    
+- Friday October 25: Stein's paradox
+    - [HW 7 due](https://stat532.github.io/HW7/) ([R Markdown file](https://github.com/stat532/HW7/blob/master/HW7_RMD2019.Rmd))
 
 #### Week 10: Regression Introduction
 - Monday October 28: Point Mass Priors, Bayes Factors, and model selection 
