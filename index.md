@@ -89,9 +89,11 @@
 
 #### Week 10: Regression Introduction
 - Monday October 28: Point Mass Priors, Bayes Factors, and model selection
+    - [Quiz 7 due](https://stat532.github.io/Quiz7/)
     - [Weekly Notes](https://github.com/stat532/Lecture9/blob/master/Lecture9_2018.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture9/blob/master/Lecture9_2018.Rmd)) 
 - Wednesday October 30: Bayes Factors and model selection 
-- Friday November 1: Regression    
+- Friday November 1: Regression
+    - HW 8 due
 
 #### Week 11: Regression 
 - Monday November 4: Regression
