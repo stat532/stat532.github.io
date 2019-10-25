@@ -93,7 +93,7 @@
     - [Weekly Notes](https://github.com/stat532/Lecture9/blob/master/Lecture9_2018.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture9/blob/master/Lecture9_2018.Rmd)) 
 - Wednesday October 30: Bayes Factors and model selection 
 - Friday November 1: Regression
-    - [HW 8 due](https://stat532.github.io/HW8/) 
+    - [HW 8 due](https://stat532.github.io/HW8/) ([R Markdown file](https://github.com/stat532/HW8/blob/master/HW8_RMD_2019.Rmd))
 
 #### Week 11: Regression 
 - Monday November 4: Regression
