@@ -97,31 +97,37 @@
 
 #### Week 11: Regression 
 - Monday November 4: Regression
-- Wednesday November 6: Regression
-- Friday November 8: Regression    
+    - [Quiz 8 due]
+    - [Week 11 - 12 Notes](https://github.com/stat532/Lecture10/blob/master/Lecture10_2018.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture10/blob/master/Lecture10_2018.Rmd))
+- Wednesday November 6: Regression Lab
+- Friday November 8: Bayesian GLMs 
+    - HW 9 due
 
 #### Week 12: GLMs and Metropolis-Hastings 
 - Monday November 11: No Class Veteran's Day
 - Wednesday November 13: Generalized Linear Models
 - Friday November 15: Metropolis-Hastings    
+    - HW 10 due
 
-#### Week 13: Hierarchical GLMs / Presentations
-- Monday November 18: Hierarchical Regression 
-- Wednesday November 20: Hierarchical Regression
-- Friday November 22: Course Presentations    
-
+#### Week 13: Hierarchical Regression
+- Monday November 18: Hierarchical Regression
+    - Quiz 9
+- Wednesday November 20: Hierarchical GLMs
+- Friday November 22: Latent Variable Methods 
+    - HW 11 due
+    
 #### Week 14:  
-- Monday November 25: Course Presentations
+- Monday November 25: In Class Final
 - Wednesday November 27: Thanksgiving Break NO CLASS
 - Friday November 29: Thanksgiving Break NO CLASS  
 
 #### Week 15: 
-- Monday December 2: Hierarchical GLMs
-- Wednesday December 4: 
-- Friday December 6: 
+- Monday December 2: Class Choice
+- Wednesday December 4: Class Choice
+- Friday December 6: Class Choice
 
 #### Week 15: Final Exam Week
-- Friday December 13: 8 AM - 9:50 Final Exam
+- Friday December 13: 8 AM - 9:50 Final Exam (Presentations)
 
 ## Course Description
 
