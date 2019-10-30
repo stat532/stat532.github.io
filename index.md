@@ -97,7 +97,7 @@
 
 #### Week 11: Regression 
 - Monday November 4: Regression
-    - [Quiz 8 due]
+    - [Quiz 8 due](https://stat532.github.io/Quiz8/)
     - [Week 11 - 12 Notes](https://github.com/stat532/Lecture10/blob/master/Lecture10_2018.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture10/blob/master/Lecture10_2018.Rmd))
 - Wednesday November 6: Regression Lab
 - Friday November 8: Bayesian GLMs 
