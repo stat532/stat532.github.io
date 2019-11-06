@@ -101,20 +101,19 @@
     - [Week 11 - 12 Notes](https://github.com/stat532/Lecture10/blob/master/Lecture10_2018.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture10/blob/master/Lecture10_2018.Rmd))
 - Wednesday November 6: [Regression Demo](https://github.com/stat532/Regression_Demo/blob/master/Regression_Demo.pdf) ([R Markdown Source Code](https://github.com/stat532/Regression_Demo/blob/master/Regression_Demo.Rmd))
 - Friday November 8: Bayesian GLMs 
-    - HW 9 due
 
 #### Week 12: GLMs and Metropolis-Hastings 
 - Monday November 11: No Class Veteran's Day
 - Wednesday November 13: Generalized Linear Models
 - Friday November 15: Metropolis-Hastings    
-    - HW 10 due
+    - HW 9 due
 
 #### Week 13: Hierarchical Regression
 - Monday November 18: Hierarchical Regression
     - Quiz 9
 - Wednesday November 20: Hierarchical GLMs
 - Friday November 22: Latent Variable Methods 
-    - HW 11 due
+    - HW 10 due
     
 #### Week 14:  
 - Monday November 25: In Class Final
