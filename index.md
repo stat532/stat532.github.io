@@ -112,7 +112,7 @@
 #### Week 13: Hierarchical Regression
 - Monday November 18: Hierarchical Regression
     - [Quiz 9 due](https://stat532.github.io/Quiz9/)
-    - Week 13 Notes
+    - [Week 13 Notes](https://github.com/stat532/Lecture12/blob/master/Lecture12_2018.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture12/blob/master/Lecture12_2018.Rmd))
 - Wednesday November 20: Hierarchical GLMs
 - Friday November 22: Latent Variable Methods 
     - [HW 10 due](https://stat532.github.io/HW10/) ([R Markdown Source Code](https://github.com/stat532/HW10/blob/master/HW10_RMD_2019.Rmd))
@@ -123,7 +123,7 @@
 - Friday November 29: Thanksgiving Break NO CLASS  
 
 #### Week 15: 
-- Monday December 2: Predictive Models (Bayesian Trees)
+- Monday December 2: [Predictive Models (Bayesian Trees)](https://github.com/stat532/ExtraLectures/blob/master/LecturePredModeling_Key.pdf) ([R Markdown Source Code](https://github.com/stat532/ExtraLectures/blob/master/LecturePredModeling_Key.Rmd))
 - Wednesday December 4: State Space Models (Bayesian Time Series)
 - Friday December 6: Bayesian Clustering + Bayesian Missing Data
 
