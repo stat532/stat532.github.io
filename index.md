@@ -105,12 +105,14 @@
 #### Week 12: GLMs and Metropolis-Hastings 
 - Monday November 11: No Class Veteran's Day
 - Wednesday November 13: Generalized Linear Models
-- Friday November 15: Metropolis-Hastings    
+- Friday November 15: Metropolis-Hastings
+    - [Week 12 - 13 Notes](https://github.com/stat532/Lecture11/blob/master/Lecture11_2018.pdf) ([R Markdown Source Code](https://github.com/stat532/Lecture11/blob/master/Lecture11_2018.Rmd))
     - [HW 9 due](https://stat532.github.io/HW9/)
 
 #### Week 13: Hierarchical Regression
 - Monday November 18: Hierarchical Regression
     - [Quiz 9 due](https://stat532.github.io/Quiz9/)
+    - Week 13 Notes
 - Wednesday November 20: Hierarchical GLMs
 - Friday November 22: Latent Variable Methods 
     - [HW 10 due](https://stat532.github.io/HW10/) ([R Markdown Source Code](https://github.com/stat532/HW10/blob/master/HW10_RMD_2019.Rmd))
