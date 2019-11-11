@@ -113,7 +113,7 @@
     - [Quiz 9 due](https://stat532.github.io/Quiz9/)
 - Wednesday November 20: Hierarchical GLMs
 - Friday November 22: Latent Variable Methods 
-    - HW 10 due
+    - [HW 10 due](https://stat532.github.io/HW10/) ([R Markdown Source Code](https://github.com/stat532/HW10/blob/master/HW10_RMD_2019.Rmd))
     
 #### Week 14:  
 - Monday November 25: In Class Final
