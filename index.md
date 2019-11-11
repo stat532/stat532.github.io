@@ -106,7 +106,7 @@
 - Monday November 11: No Class Veteran's Day
 - Wednesday November 13: Generalized Linear Models
 - Friday November 15: Metropolis-Hastings    
-    - HW 9 due
+    - [HW 9 due](https://stat532.github.io/HW9/)
 
 #### Week 13: Hierarchical Regression
 - Monday November 18: Hierarchical Regression
