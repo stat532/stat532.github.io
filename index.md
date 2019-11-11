@@ -110,7 +110,7 @@
 
 #### Week 13: Hierarchical Regression
 - Monday November 18: Hierarchical Regression
-    - Quiz 9
+    - [Quiz 9 due](https://stat532.github.io/Quiz9/)
 - Wednesday November 20: Hierarchical GLMs
 - Friday November 22: Latent Variable Methods 
     - HW 10 due
@@ -121,9 +121,9 @@
 - Friday November 29: Thanksgiving Break NO CLASS  
 
 #### Week 15: 
-- Monday December 2: Class Choice
-- Wednesday December 4: Class Choice
-- Friday December 6: Class Choice
+- Monday December 2: Predictive Models (Bayesian Trees)
+- Wednesday December 4: State Space Models (Bayesian Time Series)
+- Friday December 6: Bayesian Clustering + Bayesian Missing Data
 
 #### Week 15: Final Exam Week
 - Friday December 13: 8 AM - 9:50 Final Exam (Presentations)
