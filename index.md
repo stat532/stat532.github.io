@@ -119,6 +119,7 @@
     
 #### Week 14:  
 - Monday November 25: In Class Final
+    - Old Exams: [2016](https://github.com/stat532/oldexams/blob/master/inclass_final.pdf) [2017](https://github.com/stat532/oldexams/blob/master/inclassFinal2017.pdf) [2018](https://github.com/stat532/oldexams/blob/master/final2018.pdf)
 - Wednesday November 27: Thanksgiving Break NO CLASS
 - Friday November 29: Thanksgiving Break NO CLASS  
 
