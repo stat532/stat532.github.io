@@ -125,7 +125,7 @@
 - Friday November 29: Thanksgiving Break NO CLASS  
 
 #### Week 15: 
-- Sunday December 1: Take Home Exam assigned
+- Sunday December 1: [Take Home Exam assigned](https://github.com/stat532/FinalExam/blob/master/final2019.pdf) ([R Markdown Source Files](https://github.com/stat532/FinalExam/blob/master/final2019.Rmd))
 - Monday December 2: Latent Variable Methods
 - Wednesday December 4: Hierarchical GLMs
 - Friday December 6: [Predictive Models (Bayesian Trees)](https://github.com/stat532/ExtraLectures/blob/master/LecturePredModeling_Key.pdf) ([R Markdown Source Code](https://github.com/stat532/ExtraLectures/blob/master/LecturePredModeling_Key.Rmd))
