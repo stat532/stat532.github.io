@@ -131,7 +131,7 @@
 - Friday December 6: [Predictive Models (Bayesian Trees)](https://github.com/stat532/ExtraLectures/blob/master/LecturePredModeling_Key.pdf) ([R Markdown Source Code](https://github.com/stat532/ExtraLectures/blob/master/LecturePredModeling_Key.Rmd))
 
 #### Week 15: Final Exam Week
-- Monday December 8: Take Home Exam due
+- Monday December 9: Take Home Exam due
 - Friday December 13: 8 AM - 9:50 Final Exam (Presentations)
 
 ## Course Description
