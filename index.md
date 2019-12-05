@@ -120,7 +120,7 @@
 - Monday November 25: In Class Final
     - Old Exams (In Class): [2016](https://github.com/stat532/oldexams/blob/master/inclass_final.pdf) [2017](https://github.com/stat532/oldexams/blob/master/inclassFinal2017.pdf) [2018](https://github.com/stat532/oldexams/blob/master/final2018.pdf)
     - Old Exams (Take Home): [2017](https://github.com/stat532/oldexams/blob/master/takehome_2017.pdf) [2018](https://github.com/stat532/oldexams/blob/master/takehome_2018.Rmd)
-     - [HW 10 due](https://stat532.github.io/HW10/)
+     - [HW 10 due](https://stat532.github.io/HW10/)([HW 10 Key](https://github.com/stat532/HW10/blob/master/HW10_2019key.pdf))
 - Wednesday November 27: Thanksgiving Break NO CLASS
 - Friday November 29: Thanksgiving Break NO CLASS  
 
